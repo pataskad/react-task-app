@@ -1,3 +1,7 @@
+# Task App
+
+This is a practice project to review and implement React fundamentals using create-react-app boilerplate.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
